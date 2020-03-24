@@ -1,2 +1,2 @@
 # python-simple-calculator
-console based calculator written in Python.
+Console based calculator written in Python.
